@@ -1,0 +1,27 @@
+.data h1 {
+    font-size: 60px;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+
+.data h6 {
+    font-size: 20px;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+
+.buu:hover {
+    background-color: #008000;
+}
+
+@media (max-width:992px) {
+    .data h1 {
+        font-size: 30px;
+        margin-bottom: 30px;
+
+    }
+
+    .data h6 {
+        font-size: 15px;
+    }
+}
